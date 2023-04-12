@@ -20,3 +20,7 @@ Java 17, REST, Postgres, Hibernate, Spring Data JPA, Spring MVC, Spring Validato
 Для получения всех измерений от метео датчика необходимо выполнить GET запрос на адрес: /measurements
 
 Для получения количества дождливых дней необходимо выполнить GET запрос на адрес: /measurements/rainyDaysCount
+
+Используя приложение-клиент (https://github.com/Mystery32/job4j_weather_sensor_client) можем добавить большое количество измерений от метео датчика и построить график температур на основании данных измерений.
+
+![3](https://user-images.githubusercontent.com/69649934/231555910-5c4cf9a5-1000-4acd-b800-d398153d0ebf.png)
