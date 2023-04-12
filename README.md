@@ -3,7 +3,7 @@
 REST API приложение для получения данных с метеорологического датчика и сохранения их в БД с последующей возможностью построения графика температур.
 
 #### Стек технологий: 
-Java 17, REST, Postgres, Hibernate, Spring Data JPA, Spring MVC, Spring Validator, Maven, Git
+Java 17, REST, PostgreSQL, Hibernate, Spring Data JPA, Spring MVC, Spring Validator, Maven, Git
 
 ---
 
